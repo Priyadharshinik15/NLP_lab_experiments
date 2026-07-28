@@ -7,7 +7,7 @@
 
 This repository contains the implementation of my **Natural Language Processing (NLP) Lab** experiments using **Python**, **NLTK**, and **Scikit-learn**. Each experiment focuses on a fundamental NLP task, covering text preprocessing, part-of-speech tagging, information retrieval, named entity recognition, relation extraction, language modeling, topic modeling, document classification, and text clustering. The implementations provide practical exposure to classical NLP techniques and machine learning algorithms.
 
-> **Note:** As per the lab instructions, no separate README files are included inside the individual experiment folders.
+
 
 ---
 
